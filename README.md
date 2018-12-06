@@ -1,5 +1,4 @@
 # tf-deepimageprior
-tf°æµÄdeepimageprior£¬Ê¹ÓÃtf.layersÀ´¹¹½¨ÍøÂç
-Ô­ÂÛÎÄÊÇ deep image prior
-tfÖĞÃ»ÓĞÏÖ³ÉµÄreflectionPadding
-ÉÏ²ÉÑù·½Ê½Ñ¡Ôñ¸ßË¹ºË
+## tfç‰ˆçš„deepimagepriorï¼Œä½¿ç”¨tf.layersæ¥æ„å»ºç½‘ç»œ
+## åŸè®ºæ–‡æ˜¯ deep image prior
+## tfä¸­æ²¡æœ‰ç°æˆçš„reflectionPadding, ä¸Šé‡‡æ ·æ–¹å¼é€‰æ‹©é«˜æ–¯æ ¸
